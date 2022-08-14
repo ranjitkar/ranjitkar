@@ -4,7 +4,7 @@
 - 🧑‍💻 Im a Programmer.
 
 I love JS.
-![image](https://user-images.githubusercontent.com/100410283/184522384-6712d2ca-0b34-4c89-be7f-ccb3707a347e.png)
+![js-java-script](https://user-images.githubusercontent.com/100410283/184522392-35bcee53-edcb-43c0-a1fe-439b90c4d1d3.gif)
 
 
 
