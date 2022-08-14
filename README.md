@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @ranjitkar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ![giphy](https://user-images.githubusercontent.com/100410283/184522094-a2b36a71-e929-4cb1-ab4f-8405172a46cf.gif)
+![abell46s-art](https://user-images.githubusercontent.com/100410283/184522314-c3a67c65-a634-4aae-96a4-a19b61d41bbf.gif)
 
-<!---
-ranjitkar/ranjitkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @ranjitkar
+- 🧑‍💻 Im a Programmer.
+
 
