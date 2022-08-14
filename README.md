@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-"https://giphy.com/gifs/scaler-official-funny-computer-programming-CXnj3jCwvETngjy11B"
+- ![giphy](https://user-images.githubusercontent.com/100410283/184522094-a2b36a71-e929-4cb1-ab4f-8405172a46cf.gif)
+
 <!---
 ranjitkar/ranjitkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
